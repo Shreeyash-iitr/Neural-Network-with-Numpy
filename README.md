@@ -7,3 +7,7 @@
 * loss and accuracy - these functions returns cost function and accuracy after neural network is trained.
 * backpropagation - This function is to apply backpropagation and compute gradients, which will be used in updating parameters in *update_parameters* function. </br>
 Finally *train* and *predict* are for feeding input to the network and letting it train, and to predict target values.
+
+![](https://github.com/Shreeyash-iitr/Neural-Network-with-Numpy/blob/master/nn.gif)
+
+[run.py](https://github.com/Shreeyash-iitr/Neural-Network-with-Numpy/blob/master/run.py) can be used to feed data and train neural network.
