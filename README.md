@@ -1,5 +1,5 @@
 # Neural-Network-with-Numpy
-[NeuralNetwork.py]() contains the code for Neural Network written from scratch with Numpy library. I have made following functions:</br>
+[NeuralNetwork.py](https://github.com/Shreeyash-iitr/Neural-Network-with-Numpy/blob/master/NeuralNetwork.py) contains the code for Neural Network written from scratch with Numpy library. I have made following functions:</br>
 * NN_architecture - To define architecture of neural network, in which width, depth, activation etc can be varied according to the need.
 * init_parameters - To initialize parameters *RANDOMLY* or with *GLOROT* initialization.  
 * Activation functions  - I have written code for 4 activations namely : sigmoid, relu, softmax, tanh. code also includes their derivative.
